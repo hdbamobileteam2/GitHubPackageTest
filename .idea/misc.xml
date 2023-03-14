@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/easeintro1enzh_svg.xml" value="0.193" />
+        <entry key="app/src/main/res/layout/custom_recycler_with_pager_layout.xml" value="0.24320652173913043" />
+        <entry key="app/src/main/res/layout/custom_toolbar.xml" value="0.24320652173913043" />
+        <entry key="app/src/main/res/layout/recycler_view_adapter.xml" value="0.24320652173913043" />
+        <entry key="app/src/main/res/layout/testview_layout.xml" value="0.24320652173913043" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
